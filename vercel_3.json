@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/Dermatomedica_Auditoria_2025.html" },
+    { "source": "/(.*)", "destination": "/Dermatomedica_Auditoria_2025.html" }
+  ]
+}
